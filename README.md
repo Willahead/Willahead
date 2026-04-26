@@ -3,11 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&pause=100000&color=C98A4A&center=true&vCenter=true&lines=CS+graduate+%7C+Technical+Expert+%40+Foreign+Enterprise+%7C+Builder+%26+Problem+Solver." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&pause=100000&color=C98A4A&center=true&vCenter=true&width=900&lines=CS+graduate+%7C+Technical+Expert+%40+Foreign+Enterprise+%7C+Builder+%26+Problem+Solver." />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> I am open to interesting opportunities in any direction.
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> 
+  I am open to interesting opportunities in any direction.
 </p>
 
 <p align="center">
