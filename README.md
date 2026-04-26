@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&pause=100000&color=C98A4A&center=true&vCenter=true&lines=Hi%2C+I'm+William.+AI+%2F+Backend+Developer.;CS+graduate+%7C+Technical+Expert+%40+Foreign+Enterprise+%7C+Builder+%26+Problem+Solver." />
-</p>
-<h3 align="center">Hi, I'm William. AI / Backend Developer.</h3>
-
-<p align="center">
-  Computer Science graduate | Java · Python · AI · MySQL
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&pause=100000&color=C98A4A&center=true&vCenter=true&lines=Hi%2C+I'm+William.+AI+%2F+Backend+Developer." />
 </p>
 
 <p align="center">
-  👋 I’m open to interesting opportunities & collaborations.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&pause=100000&color=C98A4A&center=true&vCenter=true&lines=CS+graduate+%7C+Technical+Expert+%40+Foreign+Enterprise+%7C+Builder+%26+Problem+Solver." />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> I am open to interesting opportunities in any direction.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌱_Born-2002-lightgrey?style=flat-square">
+  <img src="https://img.shields.io/badge/📍_China%20%2F%20Remote-lightgrey?style=flat-square">
 </p>
 
 ---
@@ -23,20 +27,14 @@
 
 ---
 
-### 📍 Info
-
-- 🎂 Born: 2002  
-- 🌍 Location: China / Remote  
-- 📧 Email: **mzhckc760@163.com**
-
----
-
 ### 🔗 Links
 
 <p>
-  <img src="https://img.shields.io/badge/Blog-Personal-grey?style=flat-square">
-  <img src="https://img.shields.io/badge/Gmail-mzhckc760%40163.com-red?style=flat-square">
-  <img src="https://img.shields.io/badge/GitHub-William-black?style=flat-square">
+  <img src="https://img.shields.io/badge/Email-mzhckc760%40163.com-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Java-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/AI-black?style=flat-square">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square">
 </p>
 
 ---
@@ -52,4 +50,4 @@
 
 ### ✨ Motto
 
-> “Build something useful. Then make it better.”
+> Build something useful. Then make it better.
