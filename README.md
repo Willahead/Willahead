@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&duration=3000&pause=1000&color=C98A4A&center=true&vCenter=true&lines=Hi%2C+I'm+William.;AI+%2F+Backend+Developer.;Java+%7C+Python+%7C+AI+%7C+MySQL" />
+</p>
 <h3 align="center">Hi, I'm William. AI / Backend Developer.</h3>
 
 <p align="center">
